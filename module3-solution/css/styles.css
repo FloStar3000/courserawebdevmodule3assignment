@@ -1,0 +1,19 @@
+.navbar{
+	background-color: #ccc;
+}
+
+.icon-bar{
+	background-color: #fff;
+}
+
+nav .nav a{
+	background-color: #eee;
+	border: 1px solid #777;
+	margin-bottom: 3px;
+}
+
+#description{
+	background-color: #ddd;
+	padding: 10px;
+	height: 1000px;
+}
